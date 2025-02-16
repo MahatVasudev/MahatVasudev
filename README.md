@@ -1,6 +1,7 @@
 # 💻 Mahat Vasudev – Data Scientist | Software Developer | ML Enthusiast  
 
-![Header GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)  
+![Header GIF](https://github.com/user-attachments/assets/d51aaf13-7bf3-4287-ae18-65678a87b80b)
+
 
 ## 🚀 About Me  
 Hi, I'm **Mahat Vasudev**. I'm a **data science student** who enjoys solving problems and building useful applications. I have experience working with **machine learning**, **deep learning**, and **web development**.
